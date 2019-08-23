@@ -1,1 +1,13 @@
-.idea
+# Byte-compiled / optimized / DLL files
+**/.idea
+**/target
+**/log
+**/.ipynb_checkpoints
+**/*.pkl
+**/*.csv
+**/*.out
+**/*.zip
+
+__pycache__/
+*.py[cod]
+*$py.class
