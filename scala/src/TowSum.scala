@@ -2,7 +2,7 @@ package leetcode
 
 class TowSum {
   def twoSum(nums: Array[Int], target: Int): Array[Int] = {
-    val indexMap: Map[Int, Array[Int]] = nums.zipWithIndex.groupBy(_._1).mapValues(_.map(_._2))
+    val indexMap: Map[Int, Array[Int]] = nums.zipWithIndex.groupBy(_._1).mapValues(_.map(_._2)).toMap
 
     val a = nums.collectFirst {
       case i if 2 * i != target && indexMap.contains(target - i) =>

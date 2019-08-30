@@ -78,7 +78,7 @@ object MinimumWindowSubstring {
   }
 
   def mkCount(s: Seq[Char]): Map[Char, Int] = {
-    s.groupBy(e => e).mapValues(e => e.length)
+    s.groupBy(e => e).mapValues(e => e.length).toMap
   }
 
   def main(args: Array[String]): Unit = {
