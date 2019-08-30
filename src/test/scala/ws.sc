@@ -1,1 +1,0 @@
-"".toSeq.isEmpty
