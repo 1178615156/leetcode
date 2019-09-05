@@ -1,127 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14e986c4-9bad-45e4-afb0-2b062b9dba5a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/AddTwoNumbers$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/AddTwoNumbers$ListNode$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/AddTwoNumbers$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/AddTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/Solution$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/Solution$Entity$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/Solution$Entity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/BinarySearchTreeIterator$BSTIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/BinarySearchTreeIterator$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/BinarySearchTreeIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/BurstBalloons$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/BurstBalloons$Value$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/BurstBalloons$Value.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/BurstBalloons.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/CombinationSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/ContainerWithMostWater$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/ContainerWithMostWater$Entity$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/ContainerWithMostWater$Entity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/ContainerWithMostWater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/DungeonGame$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/DungeonGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/GasStation$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/GasStation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/IsSubsequence$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/IsSubsequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/KokoEatingBananas$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/KokoEatingBananas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/LargestRectangleInHistogram$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/LargestRectangleInHistogram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/LengthOfLongestFibonacciSubsequence$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/LengthOfLongestFibonacciSubsequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/LongestCommonPrefix$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/LongestCommonPrefix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/LongestIncreasingPathInAMatrix$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/LongestIncreasingPathInAMatrix$Point$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/LongestIncreasingPathInAMatrix$Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/LongestIncreasingPathInAMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/LongestValidParentheses$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/LongestValidParentheses$CloseParent$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/LongestValidParentheses$CloseParent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/LongestValidParentheses$OpenParent$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/LongestValidParentheses$OpenParent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/LongestValidParentheses$Parentheses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/LongestValidParentheses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/Main$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MaxSlidingWindow$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MaxSlidingWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MaximalRectangle$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MaximalRectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MaximumProductSubarray$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MaximumProductSubarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MaximumSubarray$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MaximumSubarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MedianTwoSortedArray$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MedianTwoSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MergeInterval$Interval$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MergeInterval$Interval.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MergeInterval.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MinimumNumberofRefuelingStops$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MinimumNumberofRefuelingStops$Station$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MinimumNumberofRefuelingStops$Station.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MinimumNumberofRefuelingStops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MinimumPathSum$Index$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MinimumPathSum$Index.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MinimumPathSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MinimumSizeSubarraySum$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MinimumSizeSubarraySum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MinimumWindowSubstring$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MinimumWindowSubstring$Point$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MinimumWindowSubstring$Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MinimumWindowSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MinimunCostForTickets$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/MinimunCostForTickets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/RemoveDuplicateLetters$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/RemoveDuplicateLetters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/ReverseInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/RussianDollEnvelopes$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/RussianDollEnvelopes$Point$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/RussianDollEnvelopes$Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/RussianDollEnvelopes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/SkylineProblem$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/SkylineProblem$Entity$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/SkylineProblem$Entity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/SkylineProblem$Line$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/SkylineProblem$Line.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/SkylineProblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/Solution$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/SubArraySumEqualsK$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/SubArraySumEqualsK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/ThreeSum$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/ThreeSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/TowSum$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/TowSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/UniquePaths$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/UniquePaths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/WildcardMatching$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/WildcardMatching.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/WordBreak$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/WordBreak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/WordSearch$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/WordSearch$Point$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/WordSearch$Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/WordSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/minimum_number_of_arrows_to_burst_balloons$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/minimum_number_of_arrows_to_burst_balloons$Point$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/minimum_number_of_arrows_to_burst_balloons$Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/leetcode/minimum_number_of_arrows_to_burst_balloons.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/scoreOfParentheses$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/scoreOfParentheses$Left$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/scoreOfParentheses$Num$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/scoreOfParentheses$Num.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/scoreOfParentheses$Right$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/scoreOfParentheses$Value.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/scoreOfParentheses.class" beforeDir="false" />
-    </list>
+    <list default="true" id="14e986c4-9bad-45e4-afb0-2b062b9dba5a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python/numRescueBoats.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="126">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -187,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+            <state relative-caret-position="112">
+              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -252,8 +132,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="802" />
-    <option name="y" value="128" />
+    <option name="x" value="609" />
+    <option name="y" value="229" />
     <option name="width" value="1156" />
     <option name="height" value="834" />
   </component>
@@ -442,7 +322,7 @@
       <updated>1566459695824</updated>
       <workItem from="1566459705212" duration="13086000" />
       <workItem from="1567066660948" duration="4119000" />
-      <workItem from="1567127455681" duration="6559000" />
+      <workItem from="1567127455681" duration="7484000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1566459832162</created>
@@ -493,15 +373,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567142106165</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <created>1567142148549</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567142148549</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23764000" />
+    <option name="totallyTimeSpent" value="24689000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="802" y="128" width="1156" height="834" extended-state="0" />
-    <editor active="true" />
+    <frame x="609" y="229" width="1156" height="834" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.310219" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -660,17 +546,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/numRescueBoats.py">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="112">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/python/numRescueBoats.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        <state relative-caret-position="126">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
         </state>
       </provider>
     </entry>
