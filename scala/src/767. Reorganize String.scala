@@ -1,4 +1,4 @@
-object Solution {
+object reorganizeString {
   def reorganizeString(S: String): String = {
     val charCount  = S.toList.groupBy(e => e)
       .mapValues(_.size)
