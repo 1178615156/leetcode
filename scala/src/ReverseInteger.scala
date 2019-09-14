@@ -1,4 +1,4 @@
-package leetcode
+
 
 class ReverseInteger {
   def reverse(int: Int): Int = {

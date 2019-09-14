@@ -1,4 +1,4 @@
-package leetcode
+
 
 /*
  * @lc app=leetcode id=239 lang=scala
@@ -43,7 +43,7 @@ package leetcode
  * Could you solve it in linear time?
  */
 
-object Solution {
+object findMaxValue {
 
   def findMaxValue(nums: Array[Int], start: Int, end: Int) = {
     var (maxValue, maxCount) = (nums(start),1)

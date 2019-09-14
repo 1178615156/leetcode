@@ -1,4 +1,4 @@
-package leetcode
+
 
 object MinimumSizeSubarraySum {
   def minSubArrayLen(s: Int, nums: Array[Int]): Int = {

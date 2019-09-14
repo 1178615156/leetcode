@@ -1,4 +1,4 @@
-package leetcode
+
 
 object LargestRectangleInHistogram {
   def largestRectangleArea(heights: Array[Int]): Int = {

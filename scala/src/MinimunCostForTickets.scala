@@ -1,4 +1,4 @@
-package leetcode
+
 
 object MinimunCostForTickets {
   def mincostTickets(days: Array[Int], costs: Array[Int]): Int = {

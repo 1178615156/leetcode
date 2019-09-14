@@ -1,4 +1,4 @@
-package leetcode
+
 
 import scala.collection.immutable.TreeSet
 

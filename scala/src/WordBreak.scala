@@ -1,4 +1,4 @@
-package leetcode
+
 
 object WordBreak {
   var cache = Map.empty[List[Char], Boolean]

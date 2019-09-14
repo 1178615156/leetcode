@@ -1,4 +1,4 @@
-package leetcode
+
 
 class TowSum {
   def twoSum(nums: Array[Int], target: Int): Array[Int] = {

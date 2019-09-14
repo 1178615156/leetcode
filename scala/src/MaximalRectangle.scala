@@ -1,4 +1,4 @@
-package leetcode
+
 
 object MaximalRectangle {
   def maximalRectangle(matrix: Array[Array[Char]]): Int = {

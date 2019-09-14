@@ -1,4 +1,4 @@
-package leetcode
+
 
 /*
  * @lc app=leetcode id=452 lang=scala

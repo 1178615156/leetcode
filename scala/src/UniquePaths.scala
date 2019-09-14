@@ -1,4 +1,4 @@
-package leetcode
+
 
 object UniquePaths {
   def uniquePaths(m: Int, n: Int): Int = {
