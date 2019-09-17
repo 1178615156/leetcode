@@ -23,8 +23,8 @@ object findLongestChain {
 
     val list = pairs.toSeq.map(e => Pair(e(0), e(1))).sortBy(_.start)
     impl(list)
-  }
 
+  }
 
 
 }
