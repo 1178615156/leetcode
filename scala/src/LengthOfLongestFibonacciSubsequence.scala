@@ -1,4 +1,4 @@
-package leetcode
+
 
 object LengthOfLongestFibonacciSubsequence {
   def lenLongestFibSubseq(A: Array[Int]): Int = {

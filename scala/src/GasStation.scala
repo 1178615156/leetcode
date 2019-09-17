@@ -1,4 +1,4 @@
-package leetcode
+
 
 object GasStation {
 //  def canCompleteCircuit(gas: Array[Int], cost: Array[Int]): Int = {

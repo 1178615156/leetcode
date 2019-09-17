@@ -1,4 +1,4 @@
-object Solution {
+object rightSideView {
 
   class TreeNode(var _value: Int) {
     var value: Int      = _value

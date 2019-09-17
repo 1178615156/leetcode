@@ -1,4 +1,4 @@
-package leetcode
+
 
 object MaximumSubarray {
   //  def maxSubArray(nums: Array[Int]): Int = {

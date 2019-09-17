@@ -1,4 +1,4 @@
-package leetcode
+
 
 import scala.annotation.meta.getter
 

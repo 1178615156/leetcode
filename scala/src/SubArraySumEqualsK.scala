@@ -1,4 +1,4 @@
-package leetcode
+
 
 object SubArraySumEqualsK {
   def sumArray(nums: Array[Int]): Array[Int] = {
